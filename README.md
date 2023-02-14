@@ -24,8 +24,9 @@ Classification techniques were employed to determine the students who are facing
 
 #### Results
 Our research has revealed that students attending two-year colleges, despite being supported by the 10,000 Degrees program, are at a higher risk of dropping out (24%). To analyze the data more effectively, we divided it into two segments: one for students enrolled in two-year colleges and the other for those attending four-year colleges.
+<u>Hello, world!</u>
 
-<u> Findings for the students attending two-year colleges </u>:
+<u> Findings for the students attending two-year colleges </u>
 
 Several key factors were identified as having a significant impact on a student's likelihood of persisting in the program if they are attending a two-year college, including:
 - A strong desire to transfer to a four-year college
