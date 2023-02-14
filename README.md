@@ -42,8 +42,8 @@ Upon reviewing these findings with 10,000 Degrees, there may be opportunities to
 
 #### Outline of project
 
-- [Link to notebook 1 for 2-year segment]()
-- [Link to notebook 2 for 4-year segment]()
+- [Link to notebook 1 for 2-year segment](https://github.com/SunaHafizogullari/SunaHafizogullari_Capstone/blob/main/Model%20for%202-year%20data.ipynb)
+- [Link to notebook 2 for 4-year segment](https://github.com/SunaHafizogullari/SunaHafizogullari_Capstone/blob/main/Model%20for%204-year%20data.ipynb)
 
 ##### Contact and Further Information
 E-mail: shafizogullari@gmail.com
