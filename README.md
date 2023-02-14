@@ -14,7 +14,7 @@ Education equity is a foundation for strengthening the economic vitality and soc
 The main objectives of this research are to:
 
 - Determine the key factors that influence a student's ability to persist and return to college in the subsequent fall after initial enrollment following high school graduation.
-- Identify the student population that is at risk of not continuing their studies."
+- Identify the student population that is at risk of not continuing their studies.
 
 #### Data Sources
 10,000 Degrees provided the data obtained through the NSC. High school ratings were obtained from greatschools.org website.
