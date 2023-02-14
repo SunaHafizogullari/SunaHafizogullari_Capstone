@@ -34,7 +34,7 @@ Several key factors were identified as having a significant impact on a student'
 
 The model for the two-year college students predicts 60% of the students who dropped-out within the bottom 20% of students who persisted.
 
-#####Findings for the students attending four-year colleges </u>:
+##### Findings for the students attending four-year colleges
 
 Students who receive scholarships, attended high school more recently, and belong to certain racial groups are more likely to persist in four-year colleges, with a drop-out rate of only 5.5%.
 
