@@ -17,7 +17,7 @@ The main objectives of this research are to:
 - Identify the student population that is at risk of not continuing their studies."
 
 #### Data Sources
-10,000 Degrees will provide the data obtained through the NSC.
+10,000 Degrees provided the data obtained through the NSC. High school ratings were obtained from greatschools.org website.
 
 #### Methodology
 Classification techniques were employed to determine the students who are facing obstacles in their academic journey and the specific factors that are hindering their success.
